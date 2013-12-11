@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            some content.  this is a big change!
         </p>
 
         <p>        
